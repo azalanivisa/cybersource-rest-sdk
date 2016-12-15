@@ -1,7 +1,0 @@
-C:\Users\azalani\Downloads\samplecode-CS-079523\vdp-c-sharp\vdp-c-sharp\bin\Release\vdp-c-sharp.exe.config
-C:\Users\azalani\Downloads\samplecode-CS-079523\vdp-c-sharp\vdp-c-sharp\bin\Release\vdp-c-sharp.exe
-C:\Users\azalani\Downloads\samplecode-CS-079523\vdp-c-sharp\vdp-c-sharp\bin\Release\vdp-c-sharp.pdb
-C:\Users\azalani\Downloads\samplecode-CS-079523\vdp-c-sharp\vdp-c-sharp\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\azalani\Downloads\samplecode-CS-079523\vdp-c-sharp\vdp-c-sharp\obj\Release\vdp-c-sharp.exe
-C:\Users\azalani\Downloads\samplecode-CS-079523\vdp-c-sharp\vdp-c-sharp\obj\Release\vdp-c-sharp.pdb
-C:\Users\azalani\Downloads\samplecode-CS-079523\vdp-c-sharp\vdp-c-sharp\obj\Release\vdp-c-sharp.csprojResolveAssemblyReference.cache

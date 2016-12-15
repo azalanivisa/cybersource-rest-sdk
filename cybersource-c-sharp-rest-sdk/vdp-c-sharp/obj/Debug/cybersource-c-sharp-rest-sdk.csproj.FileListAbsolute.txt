@@ -1,3 +1,0 @@
-C:\Users\azalani\Downloads\samplecode-CS-079523\cybersource-c-sharp-rest-sdk\vdp-c-sharp\bin\Debug\vdp-c-sharp.exe.config
-C:\Users\azalani\Downloads\samplecode-CS-079523\cybersource-c-sharp-rest-sdk\vdp-c-sharp\obj\Debug\vdp-c-sharp.exe
-C:\Users\azalani\Downloads\samplecode-CS-079523\cybersource-c-sharp-rest-sdk\vdp-c-sharp\obj\Debug\vdp-c-sharp.pdb
